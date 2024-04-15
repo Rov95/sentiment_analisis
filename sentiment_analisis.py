@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
-from tqdm.notebook  import tqdm
+
 
 plt.style.use('ggplot')
 
